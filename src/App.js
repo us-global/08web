@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="https://media.giphy.com/media/ceeFbVxiZzMBi/giphy.gif" alt="logo" />
+        <img src="https://tenor.com/view/coffee-work-online-corona-covid-gif-20406273" alt="logo" />
         <h2>I love TEA!</h2>
       </header>
     </div>
